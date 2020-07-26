@@ -51,3 +51,10 @@ npm ERR! npm set <key> <value>
 npm ERR! npm get [<key>]
 ----------------------------------
 ```
+
+#### npm connection error
+```
+info There appears to be trouble with your network connection. Retrying...
+info There appears to be trouble with your network connection. Retrying...
+info There appears to be trouble with your network connection. Retrying...
+```
